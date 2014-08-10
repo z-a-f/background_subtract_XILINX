@@ -1,0 +1,25 @@
+# Output products list for <image_80_80_buffer>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+image_80_80_buffer.asy
+image_80_80_buffer.gise
+image_80_80_buffer.ngc
+image_80_80_buffer.sym
+image_80_80_buffer.vhd
+image_80_80_buffer.vho
+image_80_80_buffer.xco
+image_80_80_buffer.xise
+image_80_80_buffer_flist.txt
+image_80_80_buffer_ste\example_design\bmg_wrapper.vhd
+image_80_80_buffer_ste\example_design\image_80_80_buffer_top.ucf
+image_80_80_buffer_ste\example_design\image_80_80_buffer_top.vhd
+image_80_80_buffer_ste\example_design\image_80_80_buffer_top.xdc
+image_80_80_buffer_ste\implement\implement.sh
+image_80_80_buffer_ste\implement\planAhead_rdn.bat
+image_80_80_buffer_ste\implement\planAhead_rdn.sh
+image_80_80_buffer_ste\implement\planAhead_rdn.tcl
+image_80_80_buffer_ste\implement\xst.prj
+image_80_80_buffer_ste\implement\xst.scr
+image_80_80_buffer_xmdf.tcl
+summary.log

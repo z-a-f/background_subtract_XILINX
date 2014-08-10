@@ -1,0 +1,24 @@
+# Output products list for <saved_image>
+_xmsgs\pn_parser.xmsgs
+blk_mem_gen_ds512.pdf
+blk_mem_gen_v6_2_readme.txt
+saved_image.asy
+saved_image.gise
+saved_image.ngc
+saved_image.vhd
+saved_image.vho
+saved_image.xco
+saved_image.xise
+saved_image_flist.txt
+saved_image_ste\example_design\bmg_wrapper.vhd
+saved_image_ste\example_design\saved_image_top.ucf
+saved_image_ste\example_design\saved_image_top.vhd
+saved_image_ste\example_design\saved_image_top.xdc
+saved_image_ste\implement\implement.sh
+saved_image_ste\implement\planAhead_rdn.bat
+saved_image_ste\implement\planAhead_rdn.sh
+saved_image_ste\implement\planAhead_rdn.tcl
+saved_image_ste\implement\xst.prj
+saved_image_ste\implement\xst.scr
+saved_image_xmdf.tcl
+summary.log

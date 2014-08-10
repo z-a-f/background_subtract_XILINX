@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Zafar\Desktop\EC551\VmodCAM_Ref_VGA Demo_13\BG_Subtract\VmodCAM_Ref.ncd
+OUTFILE=C:\Users\Zafar\Desktop\EC551\VmodCAM_Ref_VGA Demo_13\BG_Subtract\VmodCAM_Ref.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg324
+WORKINGDIR=C:\Users\Zafar\Desktop\EC551\VmodCAM_Ref_VGA Demo_13\BG_Subtract
+LICENSE=WebPack
+USER_INFO=__174135685_174135686_174419191
