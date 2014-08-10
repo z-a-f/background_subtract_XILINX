@@ -1,2 +1,6 @@
-background_subtract_XILINX
-==========================
+Background Subtraction on FPGA
+==============================
+
+Hardware used:
+1. Digilent Atlys board (Spartan-6, Lx45 324)
+2. Digilent VmodCAM - Stereo Camera Module
