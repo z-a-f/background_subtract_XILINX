@@ -1,6 +1,8 @@
 Background Subtraction on FPGA
 ==============================
 
+*NOTE*: Check all the files before importing - some of them might have absolute paths...
+
 Hardware used:
 
 1. Digilent Atlys board (Spartan-6, Lx45 324)
