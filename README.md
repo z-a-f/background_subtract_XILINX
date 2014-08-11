@@ -9,6 +9,7 @@ Hardware used:
 * VHDL + Verilog codes
 * Project was deployed using Xilinx ISE WebPack
 
+
 ---
 VIDEO:
 
